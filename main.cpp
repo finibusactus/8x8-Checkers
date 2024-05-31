@@ -6,3 +6,5 @@ int main(){
     myTestFunc();
     return 0;
 }
+
+//clang formatting
